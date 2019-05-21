@@ -2,7 +2,6 @@
 
 struct Node{
     Node * next = nullptr;
-    int i = -1;
 };
 
 struct Finder {
